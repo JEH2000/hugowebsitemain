@@ -1,0 +1,4 @@
+[submodule "tcmgsite/pulpit"]
+	path = tcmgsite/pulpit
+	url = https://github.com/JEH2000/thehugowebsite.github.io.git
+	branch = main
